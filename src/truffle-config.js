@@ -5,7 +5,7 @@ const mnemonic = secrets.nm;
 
 module.exports = {
   networks: {
-    testnet: {
+    rinkeby: {
       provider: () =>
         new HDWalletProvider(
           mnemonic,
