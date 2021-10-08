@@ -1,3 +1,12 @@
+# ERC-20 Token
+
+#### Note: To use this DAPP Website
+
+#####  Must have MetaMask Wallet
+#####  Ues Rinkeby Testnet in MetaMask
+
+[View Live Demo](https://erc20-token.herokuapp.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
